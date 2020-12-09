@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0bb54a38d9df3494e9257505f26a0c65
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pfItemWorld: {fileID: 1857293332592779282, guid: 704326381983f4144b9f888a86af68f2,
+      type: 3}
+  - healthPotionSprite: {fileID: 666590462246117251, guid: 0e2524ca3af0f894da56cf6ca0df9c6a,
+      type: 3}
+  - manaPotionSprite: {fileID: -3754019798467066511, guid: 0e2524ca3af0f894da56cf6ca0df9c6a,
+      type: 3}
+  - katanaSprite: {fileID: 1007687392324394931, guid: 0e2524ca3af0f894da56cf6ca0df9c6a,
+      type: 3}
+  - woodenSwordSprite: {fileID: 3740870650832672321, guid: 0e2524ca3af0f894da56cf6ca0df9c6a,
+      type: 3}
+  - battleAxeSprite: {fileID: -5258492909400067330, guid: 0e2524ca3af0f894da56cf6ca0df9c6a,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
